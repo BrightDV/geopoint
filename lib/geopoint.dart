@@ -3,5 +3,7 @@
 /// or polygons
 library geopoint;
 
+import 'geopoint.dart' show GeoPoint, GeoSerie;
+
 export 'src/models/geopoint.dart';
 export 'src/models/geoserie.dart';

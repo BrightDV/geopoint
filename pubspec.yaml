@@ -1,13 +1,14 @@
 name: geopoint
 description: Geospatial data structures. Provides GeoPoint and GeoSerie models.
-homepage: https://github.com/synw/geopoint
+homepage: https://github.com/BrightDV/geopoint
 version: 1.0.0
+publish_to: none
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  latlong2: ^0.8.0
+  latlong2: ^0.9.1
   slugify: ^2.0.0
 
 dev_dependencies:
